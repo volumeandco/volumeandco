@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/volumeandco/static/css/main.bb9d5ef0.chunk.css",
-    "main.js": "/volumeandco/static/js/main.9b6d83e1.chunk.js",
-    "main.js.map": "/volumeandco/static/js/main.9b6d83e1.chunk.js.map",
-    "runtime-main.js": "/volumeandco/static/js/runtime-main.bd64af36.js",
-    "runtime-main.js.map": "/volumeandco/static/js/runtime-main.bd64af36.js.map",
-    "static/js/2.07686186.chunk.js": "/volumeandco/static/js/2.07686186.chunk.js",
-    "static/js/2.07686186.chunk.js.map": "/volumeandco/static/js/2.07686186.chunk.js.map",
-    "index.html": "/volumeandco/index.html",
-    "precache-manifest.030e86d30ed5a4ed07e8d59ab76c6b96.js": "/volumeandco/precache-manifest.030e86d30ed5a4ed07e8d59ab76c6b96.js",
-    "service-worker.js": "/volumeandco/service-worker.js",
-    "static/css/main.bb9d5ef0.chunk.css.map": "/volumeandco/static/css/main.bb9d5ef0.chunk.css.map",
-    "static/js/2.07686186.chunk.js.LICENSE.txt": "/volumeandco/static/js/2.07686186.chunk.js.LICENSE.txt",
-    "static/media/VolCo_Logo_Mermaid_White.svg": "/volumeandco/static/media/VolCo_Logo_Mermaid_White.34e254c6.svg"
+    "main.css": "/static/css/main.bb9d5ef0.chunk.css",
+    "main.js": "/static/js/main.4f9e377d.chunk.js",
+    "main.js.map": "/static/js/main.4f9e377d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f66b1c97.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f66b1c97.js.map",
+    "static/js/2.07686186.chunk.js": "/static/js/2.07686186.chunk.js",
+    "static/js/2.07686186.chunk.js.map": "/static/js/2.07686186.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8ef55d7693ad6d45a23b76fcbaa64a07.js": "/precache-manifest.8ef55d7693ad6d45a23b76fcbaa64a07.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bb9d5ef0.chunk.css.map": "/static/css/main.bb9d5ef0.chunk.css.map",
+    "static/js/2.07686186.chunk.js.LICENSE.txt": "/static/js/2.07686186.chunk.js.LICENSE.txt",
+    "static/media/VolCo_Logo_Mermaid_White.svg": "/static/media/VolCo_Logo_Mermaid_White.34e254c6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd64af36.js",
+    "static/js/runtime-main.f66b1c97.js",
     "static/js/2.07686186.chunk.js",
     "static/css/main.bb9d5ef0.chunk.css",
-    "static/js/main.9b6d83e1.chunk.js"
+    "static/js/main.4f9e377d.chunk.js"
   ]
 }
