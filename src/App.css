@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+  font-family: usual, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.App-logo-wrapper {
+  width: 43%;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 1024px)  {
+  .App-logo-wrapper {
+    width: 75%;
+  }
+}
+
+.App-tagline-wrapper {
+  padding: 0 32px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #181531;
+  background-image: linear-gradient(127deg, #181531, #181531, #18155E);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-tagline-wrapper {
+  margin-bottom: 42px;
+  max-width: 500px;
+}
+
+.App-contact-button {
+  flex: 1 1 auto;
+  padding: 12px 48px;
+  border: 1px solid #f7f7f7;
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  overflow:hidden;
+  transition: .2s;
+  background: transparent;
+  border-radius: 1px;
+  color: white;
+  font-size: 16px;
+}
+
+.App-contact-button:after {
+  position: absolute;
+  transition: .3s;
+  content: '';
+  width: 0;
+  bottom: 0;
+  height: 2px;
+  background: #f7f7f7;
+  right: 0;
+  left: auto;
+}
+
+.App-contact-button:hover {
+  cursor: pointer;
+}
+
+.App-contact-button:hover::after {
+  width: 100%;
+  left: 0;
+}
+
+p {
+  color: #FFFFF7;
+  font-size: 16px;
+  letter-spacing: .002rem;
+  line-height: 24px;
+}
+
+@media only screen and (max-width: 768px)  {
+  p {
+    font-size: 15px;
+  }
+}
