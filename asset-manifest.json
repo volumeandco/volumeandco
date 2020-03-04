@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb9d5ef0.chunk.css",
+    "main.css": "/static/css/main.044fdec9.chunk.css",
     "main.js": "/static/js/main.4f9e377d.chunk.js",
     "main.js.map": "/static/js/main.4f9e377d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f66b1c97.js",
@@ -8,16 +8,16 @@
     "static/js/2.07686186.chunk.js": "/static/js/2.07686186.chunk.js",
     "static/js/2.07686186.chunk.js.map": "/static/js/2.07686186.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8ef55d7693ad6d45a23b76fcbaa64a07.js": "/precache-manifest.8ef55d7693ad6d45a23b76fcbaa64a07.js",
+    "precache-manifest.eae53bf7ac69cc45d069bd5a18e42c34.js": "/precache-manifest.eae53bf7ac69cc45d069bd5a18e42c34.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.bb9d5ef0.chunk.css.map": "/static/css/main.bb9d5ef0.chunk.css.map",
+    "static/css/main.044fdec9.chunk.css.map": "/static/css/main.044fdec9.chunk.css.map",
     "static/js/2.07686186.chunk.js.LICENSE.txt": "/static/js/2.07686186.chunk.js.LICENSE.txt",
     "static/media/VolCo_Logo_Mermaid_White.svg": "/static/media/VolCo_Logo_Mermaid_White.34e254c6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f66b1c97.js",
     "static/js/2.07686186.chunk.js",
-    "static/css/main.bb9d5ef0.chunk.css",
+    "static/css/main.044fdec9.chunk.css",
     "static/js/main.4f9e377d.chunk.js"
   ]
 }
