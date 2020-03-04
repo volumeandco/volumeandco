@@ -3,6 +3,7 @@
   font-family: usual, sans-serif;
   font-style: normal;
   font-weight: 300;
+  max-height: 100vh;
 }
 
 .App-logo-wrapper {
