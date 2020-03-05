@@ -12,7 +12,7 @@ function App() {
         
         <div className="App-tagline-wrapper">
           <p>
-            We believe in the power of experiences.
+            We're louder together.
           </p>
 
           <p>
