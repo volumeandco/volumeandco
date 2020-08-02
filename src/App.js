@@ -9,14 +9,18 @@ function App() {
         <div className="App-logo-wrapper">
           <img src={logo} alt="volume-&-co-logo" />
         </div>
-        
+
         <div className="App-tagline-wrapper">
           <p>
-            We're louder together.
+            We work with live event and experience producers to catalyze growth without compromising their creative vision.
           </p>
 
           <p>
-            We work with independent live event producers to catalyze growth without compromising their creative vision.
+            In addition to capital, we provide a suite of financial tools to maximize production efficiency, encourage transparency and accountability between stakeholders, and boost event profitability.
+          </p>
+
+          <p>
+            Our systems may also allow for pre-settlement with select ticketing partners and downside protection in the event of cancelation or loss.
           </p>
         </div>
 
