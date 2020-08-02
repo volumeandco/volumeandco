@@ -89,6 +89,10 @@ p {
 }
 
 @media only screen and (max-width: 768px)  {
+  .App-header {
+    min-height: calc(100vh - 100px);
+  }
+
   p {
     font-size: 15px;
   }
