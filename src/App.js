@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './assets/VolCo_Logo_Mermaid_White.svg';
+import logo from './assets/eventfund-logo.png';
 import './App.css';
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
           </p>
         </div>
 
-        <a href="mailto:hi@volumeandco.com">
+        <a href="mailto:jon@primaryendeavors.com">
           <button
             className="App-contact-button"
           >
@@ -32,6 +32,12 @@ function App() {
           </button>
         </a>
       </header>
+
+      <footer>
+        <p className="footer-line">
+          &copy; 2020, -- Primary Endeavors, LLC
+        </p>
+      </footer>
     </div>
   );
 }
