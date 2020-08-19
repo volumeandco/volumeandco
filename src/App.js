@@ -35,7 +35,7 @@ function App() {
 
       <footer>
         <p className="footer-line">
-          &copy; 2020, -- Primary Endeavors, LLC
+          &copy; 2020 -- Primary Endeavors, LLC
         </p>
       </footer>
     </div>
